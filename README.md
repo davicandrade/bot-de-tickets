@@ -86,5 +86,6 @@ Diferente da maioria dos bots que utilizam apenas embeds padrão, este sistema u
 
 ## 👤 Créditos
 
-Desenvolvido por [**Davi Andrade**](https://github.com/davicandrade).*Este projeto é open-source e focado na evolução da UI/UX para Discord.*
+Desenvolvido por [**Davi Andrade**](https://github.com/davicandrade).
+*Este projeto é open-source e focado na evolução da UI/UX para Discord.*
 > **Nota:** Este bot utiliza recursos avançados. Certifique-se de que o bot tenha permissão de `Administrator` no servidor.
