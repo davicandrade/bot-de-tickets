@@ -1,0 +1,18 @@
+{
+    "1527434818978320464": {
+        "canal_id": "1527439256144838656",
+        "categoria_id": "1527447673081430126",
+        "cargos_suporte": [
+            "1527447716680962090"
+        ],
+        "canal_relatorio_id": "1527439290324357282",
+        "consideracoes_finais_habilitado": true,
+        "tickets": {
+            "1527482011059490902": {
+                "usuario_id": "1032384774125396038",
+                "aberto_em_unix": 1784250490
+            }
+        }
+    },
+    "tickets": {}
+}
